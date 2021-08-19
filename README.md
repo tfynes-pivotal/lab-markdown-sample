@@ -3,11 +3,6 @@ LAB - Markdown Sample
 
 Sample workshop content using Markdown formatting for pages.
 
-For more detailed information on how to create and deploy workshops, consult
-the documentation for Educates at:
-
-* https://docs.edukates.io
-
 If you already have the Educates operator installed and configured, to
 deploy and view this sample workshop, run:
 
