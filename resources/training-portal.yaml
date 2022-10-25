@@ -4,6 +4,8 @@ metadata:
   name: lab-markdown-sample
 spec:
   portal:
+    ingress:
+      hostname: lab-markdown-sample
     registration:
       type: anonymous
   workshops:
